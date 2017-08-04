@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+	<entry key="url">url.com/ems</entry>
+	<entry key="basicauth.enabled">true</entry>
+	<entry key="basicauth.username">username</entry>
+	<entry key="basicauth.password">password</entry>
+	<entry key="username">otherusername</entry>
+	<entry key="password">otherpassword</entry>
+</properties>
